@@ -1,4 +1,4 @@
-%Map Key Checker
+//Map Key Checker
 import org.checkerframework.checker.nullness.qual.KeyFor;
 import org.checkerframework.dataflow.qual.SideEffectFree;
 
